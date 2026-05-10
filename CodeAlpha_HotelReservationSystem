@@ -1,0 +1,36 @@
+# Hotel Reservation System
+
+This is a Java-based Hotel Reservation System developed for the CodeAlpha Java Programming Internship.
+
+## Features
+
+- View available hotel rooms
+- Book hotel rooms
+- Cancel room bookings
+- View booking details
+- Payment simulation
+- Room categorization (Standard, Deluxe, Suite)
+
+## Technologies Used
+
+- Java
+- OOP Concepts
+- ArrayList
+- Scanner Class
+
+## Project Structure
+
+- Room Management
+- Booking Management
+- Reservation Cancellation
+- Console-Based Interface
+
+## How to Run
+
+1. Open project in IntelliJ IDEA or Eclipse
+2. Compile the Java file
+3. Run `HotelReservationSystem.java`
+
+## Author
+
+Omkar Jadhav
